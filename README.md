@@ -1,1 +1,3 @@
-# coffee-shop-carousel
+# Coffee shop carousel
+
+Demo: https://tornord.github.io/coffee-shop-carousel/
