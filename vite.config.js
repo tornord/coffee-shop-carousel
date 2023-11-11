@@ -11,7 +11,7 @@ export default defineConfig({
     host: true,
   },
   build: {
-    outDir: "docs",
+    outDir: "dist",
     emptyOutDir: true,
     sourcemap: true,
   },
