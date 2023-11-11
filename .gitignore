@@ -1,3 +1,4 @@
 *.blend1
 *.txt~
 node_modules
+dist
